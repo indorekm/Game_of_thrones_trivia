@@ -81,7 +81,8 @@ h2 {
     color: antiquewhite;
     float: left;
     padding-left: 2%;
-    padding-right: 2%
+    padding-right: 2%;
+    text-align: justify
 }
 
 .row {
