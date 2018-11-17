@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="teamdata.xslt"?>
+<userdetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="uservalidation.xsd">
+	<users>
+		<firstname>Kunal</firstname>
+		<lastname>Indore</lastname>
+		<bearcatid>M12825368</bearcatid>
+		<favoriteshortcut>ctrl + shift + i</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Karan</firstname>
+		<lastname>Ghadge</lastname>
+		<bearcatid>M12905982</bearcatid>
+		<favoriteshortcut>windows + d</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Roshana</firstname>
+		<lastname>Raman</lastname>
+		<bearcatid>M12934687</bearcatid>
+		<favoriteshortcut>command + space</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Tanmay</firstname>
+		<lastname>Sharma</lastname>
+		<bearcatid>M12947752</bearcatid>
+		<favoriteshortcut>command + down arrow</favoriteshortcut>
+	</users>
+</userdetails>
