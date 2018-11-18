@@ -6,11 +6,19 @@
 			<head>
 				<meta charset="utf-8" />
 				<title>Teammate's Data</title>
+				<link rel="stylesheet" href="desktop.css" type="text/css" />
+				<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+				<link rel="stylesheet" href="mobile.css" type="text/css" media="screen and (max-device-width: 480px)" />
 			</head>
 			<body>
+				<div class="topnav noprint">
+					<a href="/index.html">Home</a>
+					<a href="/teamdata.xml">Team Details</a>
+				</div>
+				<br/>
 				<h1>Team Information</h1>
-				<p>Table contains the first name, last name, M# and favorite shortcut key for each teammate</p>
-				<table style="width:80%;" border="1">
+				<h2 style="text-align:center">Table contains the first name, last name, M# and favorite shortcut key for each teammate</h2>
+				<table>
 					<tr>
 						<th>First Name</th>
 						<th>Last Name</th>
